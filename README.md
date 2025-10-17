@@ -1,4 +1,4 @@
-# Predicting Medical Insurance Costs with Machine Learning
+# Predicting Medical Insurance Costs
 *A regression-based approach to understanding and explaining what drives medical insurance premiums.*
 
 **Project Overview:**
