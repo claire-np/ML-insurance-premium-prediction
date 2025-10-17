@@ -16,7 +16,9 @@ The objective was to design a complete, end-to-end machine learning workflow tha
 The final model doesn’t just predict — it explains.
 It identifies age as the most influential feature, followed closely by smoking behavior and body mass index, giving insurers data-driven clarity on the cost structure behind premiums.
 
-<img width="874" height="525" alt="image" src="https://github.com/user-attachments/assets/49099c60-9307-458a-b761-af5e8221ac2c" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6ef3032d-c26b-4e58-bfb3-fe585055ef0a" alt="BMI vs. Charges by Smoking Status" width="700">
+</p>
 
 
 
