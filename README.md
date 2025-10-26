@@ -5,7 +5,7 @@
 
 This project is the second entry in my data science portfolio, building on my previous HR Attrition analysis. It represents a clear progression — moving from classification (predicting who will leave) to regression (predicting how much something will cost).
 
-The objective was to design a complete, end-to-end machine learning workflow that predicts individual medical insurance costs based on personal and lifestyle factors. Beyond prediction, the project focuses on explainability and business relevance — uncovering what drives these costs and how insurers could act on those insights.
+The objective was to design an end-to-end machine learning workflow that predicts individual medical insurance costs based on personal and lifestyle factors. Beyond prediction, the project focuses on explainability and business relevance — uncovering what drives these costs and how insurers could act on those insights.
 
 **Results:**
 - Best Model: Tuned Gradient Boosting Regressor
@@ -35,7 +35,7 @@ Answering these questions would elevate the project from a predictive model to a
 
 **Source Acknowledgment**
 
-This repository builds upon the [Machine Learning: Regression Capstone (Coursera)](https://www.coursera.org/learn/machine-learning-projects), with original datasets and project framework utilized under Coursera’s Educational Use Policy.
+This repository builds upon the [Medical Insurance Premium Prediction with Machine Learning (Coursera)](https://www.coursera.org/projects/medical-insurance-premium-prediction-with-machine-learning), with original datasets and project framework utilized under Coursera’s Educational Use Policy.
 
 I took full ownership of advancing this project from a course-level exercise to a **production-grade regression analysis** focused on **statistical validity** and **business applicability**.  Key contributions include:
 - Reframing the modeling pipeline to address real-world data distribution issues.  
