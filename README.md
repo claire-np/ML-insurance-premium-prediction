@@ -21,8 +21,6 @@ It identifies age as the most influential feature, followed closely by smoking b
 </p>
 
 
-
-
 **A deeper business question for the future**
 
 While the model successfully predicts current medical costs, its real potential lies in shaping future outcomes. The next step is to move from prediction to prescription — turning insights into business action.
@@ -34,3 +32,15 @@ While the model successfully predicts current medical costs, its real potential 
 - *How much could we further reduce costs by offering 5% off for every 2-point drop in BMI?*
 
 Answering these questions would elevate the project from a predictive model to a strategic decision-support tool — one that aligns customer wellness incentives with long-term cost reduction and healthier portfolios.
+
+**Source Acknowledgment**
+
+This repository builds upon the [Machine Learning: Regression Capstone (Coursera)](https://www.coursera.org/learn/machine-learning-projects), with original datasets and project framework utilized under Coursera’s Educational Use Policy.
+
+I took full ownership of advancing this project from a course-level exercise to a **production-grade regression analysis** focused on **statistical validity** and **business applicability**.  Key contributions include:
+- Reframing the modeling pipeline to address real-world data distribution issues.  
+- Applying a logarithmic transformation to the target variable `charges` to correct skewness and satisfy regression assumptions.  
+- Designing and implementing a robust evaluation framework with extended metrics (R², MAE, RMSE) for deeper model diagnostics.  
+- Interpreting results through the perspective of **budgeting, cost control, and risk management**, aligning statistical insights with business decision-making.
+
+> *This repository reflects an independently led, methodologically enhanced version of the original Coursera project, maintained solely for educational and portfolio demonstration purposes.*
